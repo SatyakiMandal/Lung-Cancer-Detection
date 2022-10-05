@@ -9,6 +9,6 @@ Input files:
 
 
 
-final.ipyng -> complete implementation
+final.ipynb -> complete implementation
 custom-model.ipynb -> control
 
