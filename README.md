@@ -7,3 +7,8 @@ Input files:
 2. keras-model (DNN Image Classification models) -> https://www.kaggle.com/datasets/satyakimandal/kerasmodels
 3. Lung and Colon Cancer Histopathological Images dataset -> https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 
+
+
+final.ipyng -> complete implementation
+custom-model.ipynb -> control
+
